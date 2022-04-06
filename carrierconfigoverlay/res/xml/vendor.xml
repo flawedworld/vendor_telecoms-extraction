@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<carrier_config_list>
+<carrier_config mcc="000" mnc="000">
+    <string name="carrier_config_version_string">if-see-this-you-fucked-up</string>
+</carrier_config>
+</carrier_config_list>
